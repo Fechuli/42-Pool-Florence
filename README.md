@@ -1,4 +1,4 @@
-# 42_Pool_Florence
+# 42-Pool-Florence
 In this repository you will find all my progress and exercises that I have performed during my time at Florence 42.
 
 They are the bare minimum to pass the various modules.
